@@ -1,0 +1,13 @@
+.cart{
+    border: 1px solid;
+    background-color: burlywood;
+    padding: 1em;
+    margin: 1em;
+    flex: 3;
+}
+
+body {
+    background-color: #DBD56E;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
